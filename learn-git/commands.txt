@@ -24,4 +24,6 @@ With Git, there are many configurations and settings possible. git config is how
 There are many other variables available to edit in git config. From editing color outputs to changing the behavior of git status. Learn about git config settings in the official Git documentation.
 
 Testing pulling in GIT
-Adding new branch and pulling
+Adding new branch and pushing
+
+added another line for pulling
