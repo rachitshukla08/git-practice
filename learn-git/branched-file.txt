@@ -1,0 +1,1 @@
+This file was made to demonstrate branching concept in GIT
