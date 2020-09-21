@@ -3,4 +3,6 @@ Branching in GIT
 
 Adding a 2nd line for checking conflict resolution
 
+adding a line different from local file
+
 
